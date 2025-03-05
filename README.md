@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm Muhammed Salih PK! 🚀</h1>
 
-<p align="center" style="pointer-events: none; cursor: default;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00C9FF&width=600&lines=Passionate+Software+Developer+💻;Creating+Interactive+Experiences+⚡;Building+Scalable+Web+Apps+🚀;Lifelong+Learner+%26+Problem+Solver+🎯" alt="Typing SVG" />
+<p align="center" >
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00C9FF&width=600&lines=Passionate+Software+Developer+💻;Creating+Interactive+Experiences+⚡;Building+Scalable+Web+Apps+🚀;Lifelong+Learner+%26+Problem+Solver+🎯" alt="Typing SVG" align="center" style="pointer-events: none; cursor: default;" />
 </p>
 
 ---
