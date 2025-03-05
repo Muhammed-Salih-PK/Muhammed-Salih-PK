@@ -1,32 +1,44 @@
-# Hi there, I'm Muhammed Salih PK 👋
+<h1 align="center">Hey there, I'm Muhammed Salih PK 👋</h1>
+<p align="center">
+  🚀 <strong>Software Developer</strong> | 🎨 <strong>Full Stack Developer</strong> | 🌍 <strong>Tech Explorer</strong>
+</p>
 
-🚀 **Software Developer** | 🎨 **Full Stack developer** | 🌍 **Contributing to the Dev Community & Building Meaningful Projects**
-
----
-
-### 🔥 About Me
-- 🎓 Computer Science & Engineering graduate  
-- 💻 Experienced in **React, Node.js, Express, MongoDB, Django, PHP, Java, JavaScript, Python**  
-- 🛠 Building **dynamic UIs with Tailwind and Framer Motion**  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=00C9FF&width=450&lines=Building+Awesome+Things+With+Code;Creating+Dynamic+User+Experiences;Lifelong+Learner+%26+Problem+Solver" alt="Typing SVG" />
+</p>
 
 ---
 
-### ⚙️ Tech Stack
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
----
+## 🧑‍💻 About Me  
 
-### 🌎 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mhdsalihpk)
-[![Email](https://img.shields.io/badge/Email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:mhdsalihoffl@gmail.com)
+- 🎓 **CSE Graduate** with a passion for **problem-solving & innovation**  
+- 💡 **Bringing ideas to life** with cutting-edge web technologies  
+- 🌟 **Specialized in:**  
+  **Frontend** (React, Tailwind, Framer Motion) 🖥️  
+  **Backend** (Node.js, Express, Django, PHP) ⚙️  
+  **Databases** (MongoDB, PostgreSQL, MySQL) 📊  
 
 ---
 
-⭐ **If you like my work, give a star to my repositories!** 🌟
+## 🚀 Tech Stack  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,python,django,tailwind,figma" />
+</p>
+
+---
+
+## 🌎 Let's Connect  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mhdsalihpk">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:mhdsalihoffl@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+⭐ **If you find my work valuable, consider starring my repositories!** ⭐
